@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C\Emailsend\Emailsend\bin\Debug\netcoreapp3.1\Emailsend.exe
+C:\Users\user\Desktop\C\Emailsend\Emailsend\bin\Debug\netcoreapp3.1\Emailsend.deps.json
+C:\Users\user\Desktop\C\Emailsend\Emailsend\bin\Debug\netcoreapp3.1\Emailsend.runtimeconfig.json
+C:\Users\user\Desktop\C\Emailsend\Emailsend\bin\Debug\netcoreapp3.1\Emailsend.runtimeconfig.dev.json
+C:\Users\user\Desktop\C\Emailsend\Emailsend\bin\Debug\netcoreapp3.1\Emailsend.dll
+C:\Users\user\Desktop\C\Emailsend\Emailsend\bin\Debug\netcoreapp3.1\Emailsend.pdb
+C:\Users\user\Desktop\C\Emailsend\Emailsend\obj\Debug\netcoreapp3.1\Emailsend.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C\Emailsend\Emailsend\obj\Debug\netcoreapp3.1\Emailsend.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C\Emailsend\Emailsend\obj\Debug\netcoreapp3.1\Emailsend.AssemblyInfo.cs
+C:\Users\user\Desktop\C\Emailsend\Emailsend\obj\Debug\netcoreapp3.1\Emailsend.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C\Emailsend\Emailsend\obj\Debug\netcoreapp3.1\Emailsend.dll
+C:\Users\user\Desktop\C\Emailsend\Emailsend\obj\Debug\netcoreapp3.1\Emailsend.pdb
+C:\Users\user\Desktop\C\Emailsend\Emailsend\obj\Debug\netcoreapp3.1\Emailsend.genruntimeconfig.cache
